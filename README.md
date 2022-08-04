@@ -1,1 +1,1 @@
-# sas-ile-makine-renmesi
+# sas-ile-makine-ogrenmesi
